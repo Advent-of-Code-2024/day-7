@@ -1,0 +1,33 @@
+table {
+  font-family:Helvetica, sans-serif;
+  border-collapse: collapse;
+  margin: auto;
+  color:white;
+
+  caption {
+    color: black;
+    margin-bottom: 0.5rem;
+  }
+}
+tbody {
+  color: #434343;
+}
+td, th {
+  border: 1px solid black;
+  padding:0.5rem;
+}
+td {
+  height: 1lh;
+}
+th:nth-of-type(odd) {
+  background-color: #b13333;
+}
+th:nth-of-type(even) {
+  background-color: #2e802e;
+}
+td:nth-of-type(even) {
+  background-color:#a8c4a8;
+}
+td:nth-of-type(odd) {
+  background-color: #e7b5b5;
+}

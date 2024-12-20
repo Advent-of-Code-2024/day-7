@@ -1,0 +1,15 @@
+{
+  "name": "day-7",
+  "version": "1.0.0",
+  "description": "Day 6 of the 2024 Advent of Code Programming Puzzles",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/typescript/bin/tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
